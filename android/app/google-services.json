@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667167618837",
+    "project_id": "igenerate14",
+    "storage_bucket": "igenerate14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667167618837:android:cc3b4246d6efe8e32b1b1c",
+        "android_client_info": {
+          "package_name": "com.example.igenerate_14"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdmsrTKI9k-fFGK2a7upr4qYmYbvZW_TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
