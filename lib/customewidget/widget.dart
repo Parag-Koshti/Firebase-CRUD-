@@ -19,7 +19,7 @@ class AppWidget {
       style: TextStyle(
         fontSize: fontSize ?? 12,
         fontWeight: tWeight ?? FontWeight.w300,
-        color: tColor ?? Colors.purple.shade200,
+        color: tColor ?? Colors.purple.shade800,
       ),
     );
   }
